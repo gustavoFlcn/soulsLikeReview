@@ -16,6 +16,22 @@
 # Mono auto generated files
 mono_crash.*
 
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
+
+*.sublime*
+
+psd
+thumb
+sketch
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
